@@ -3,7 +3,7 @@
 🔥Use this template as an outline for your Github projects. Make a copy of this readme file and tailor it your own. Happy portfolio-ing and start applying aggressively :"))
 
 ---
-![finance_Analysis](<img width="2309" height="1299" alt="image" src="https://github.com/user-attachments/assets/3187dd4e-df67-43dc-a009-9933b1923ea7" />)
+![finance_Analysis](https://www.actian.com/wp-content/uploads/2023/11/financial-analytics-operational-efficiency.jpg)
 
 Change Icon emoji 🔥🔍📘🚩 to your likings by clicking "Start" + "."
 
